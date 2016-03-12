@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Porsche 911 Targa valued at €188k; Hello there :-)'
-datePublished: '2016-03-12T15:18:51.453Z'
-dateModified: '2016-03-12T15:17:38.332Z'
+datePublished: '2016-03-12T15:32:39.521Z'
+dateModified: '2016-03-12T15:32:32.785Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-porsche-911-targa-valued-at-euro188k-hello-there-.md
