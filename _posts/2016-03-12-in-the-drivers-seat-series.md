@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "In the driver's seat series"
-datePublished: '2016-03-12T21:10:43.809Z'
-dateModified: '2016-03-12T21:10:31.133Z'
+datePublished: '2016-03-12T21:12:18.221Z'
+dateModified: '2016-03-12T21:11:06.287Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-in-the-drivers-seat-series.md
