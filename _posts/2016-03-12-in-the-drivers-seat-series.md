@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "In the driver's seat series"
-datePublished: '2016-03-12T15:32:12.419Z'
-dateModified: '2016-03-12T15:32:09.464Z'
+datePublished: '2016-03-12T15:32:29.555Z'
+dateModified: '2016-03-12T15:32:22.550Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-12-in-the-drivers-seat-series.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-in-the-drivers-seat-series.md
-published: true
 url: in-the-drivers-seat-series/index.html
 _type: Article
 
