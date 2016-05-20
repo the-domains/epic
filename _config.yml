@@ -2,12 +2,13 @@ name: Epic
 favicon: null
 layout_spectrum: 0.31515
 typography_spectrum: 0.20805
+title: Epic
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-78063794-1
   facebook: null
   twitter: null
 opengraph:
