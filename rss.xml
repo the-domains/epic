@@ -4,7 +4,7 @@
         <description><![CDATA[Epic]]></description>
         <link>https://thegrid.ai/epic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 06:52:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 08:28:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/epic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/epic/porsche-911-targa-valued-at-euro188k-hello-there-/index.html</link>
             <guid isPermaLink="false">84c26e9c-4e1b-4a08-88e2-b846b01322d1</guid>
             <pubDate>Sat, 12 Mar 2016 15:32:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In the driver's seat series]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e69725e-1ce0-4e18-b5d4-2460fb37c7ba.jpg">]]></description>
+            <link>https://thegrid.ai/epic/in-the-drivers-seat-series/index.html</link>
+            <guid isPermaLink="false">0265bbc1-71c7-4c29-9be3-d0e708de544b</guid>
+            <pubDate>Sat, 21 May 2016 08:28:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Under the Hood]]></title>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/epic/just-cruising-at-200-for-a-while-autobahn-d/index.html</link>
             <guid isPermaLink="false">7dd19e2d-49d5-4363-93f9-c5cda5f36a87</guid>
             <pubDate>Sat, 21 May 2016 06:29:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e69725e-1ce0-4e18-b5d4-2460fb37c7ba.jpg">]]></description>
-            <link>https://thegrid.ai/epic/in-the-drivers-seat-series/index.html</link>
-            <guid isPermaLink="false">0265bbc1-71c7-4c29-9be3-d0e708de544b</guid>
-            <pubDate>Sat, 12 Mar 2016 21:12:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
