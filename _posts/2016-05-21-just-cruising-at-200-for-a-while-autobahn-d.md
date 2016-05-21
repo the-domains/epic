@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Just cruising at 200 for a while. Autobahn :-D'
-datePublished: '2016-05-21T06:29:52.176Z'
-dateModified: '2016-05-21T06:17:19.194Z'
+datePublished: '2016-05-21T08:28:28.195Z'
+dateModified: '2016-05-21T08:28:27.683Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-21-just-cruising-at-200-for-a-while-autobahn-d.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-21-just-cruising-at-200-for-a-while-autobahn-d.md
 url: just-cruising-at-200-for-a-while-autobahn-d/index.html
 _type: Article
 
