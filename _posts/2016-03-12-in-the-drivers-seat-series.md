@@ -3,21 +3,16 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: "In the driver's seat series"
-datePublished: '2016-03-12T21:12:18.221Z'
-dateModified: '2016-03-12T21:11:06.287Z'
+datePublished: '2016-05-21T08:28:16.193Z'
+dateModified: '2016-05-21T08:27:37.671Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-in-the-drivers-seat-series.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: in-the-drivers-seat-series/index.html
 _type: Article
 
